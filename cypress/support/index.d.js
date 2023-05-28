@@ -1,0 +1,1 @@
+const { addPlugin } = require('cypress-downloadfile/lib/addPlugin');
