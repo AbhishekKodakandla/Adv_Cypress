@@ -10,6 +10,7 @@ const allureWriter = require("@shelex/cypress-allure-plugin/writer");
 // const { defineConfig: defineCypressConfig } = require("cypress-downloadfile/lib/addPlugin");
 
 module.exports = defineConfig({
+  projectId: "g9n72m",
   // reporter: "mocha-junit-reporter",
   // reporterOptions: {
   //   mochafile: "cypress/reports/junitreport-[hash].xml",
